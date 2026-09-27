@@ -30,7 +30,7 @@ I'm a **BS Computer Science student** at **Pak-Austria Fachhochschule Institute 
 I specialize in full-stack web architecture, combining modern frameworks like **Next.js, React, and TypeScript** with robust backend and database systems like **Node.js, MySQL, PostgreSQL, and Supabase**. In addition to engineering web applications, I am actively involved in mentoring, hosting bootcamps, and integrating AI models into practical software solutions.
 
 - 🚀 **Full-Stack Engineering:** Crafting performant web architectures, custom dashboards, and e-commerce platforms
-* 🎓 **Academic Base:** CS Undergraduate at PAF-IAST bridging academic fundamentals with production-grade code
+- 🎓 **Academic Base:** CS Undergraduate at PAF-IAST bridging academic fundamentals with production-grade code
 - 🤖 **AI/ML Integration:** Exploring and integrating intelligent models into everyday user workflows
 - 👨‍🏫 **Mentorship & Community:** Conducting bootcamps, performing code reviews, and offering technical consulting
 - 💬 **Ask me about:** Full-stack architecture, API optimization, and modern web performance
@@ -96,17 +96,16 @@ I specialize in full-stack web architecture, combining modern frameworks like **
 
 <br/>
 
-### 🛒 Full-Stack & E-Commerce Web Platforms
-- **🧁 [Al-Ghani Sweets & Bakers](https://alghani-sweets-bakers.vercel.app)** — Full-stack bakery e-commerce platform featuring an administrative dashboard for order tracking, online payments, and catalog updates.
-- **🍕 [Pizzious](https://pizzious.vercel.app)** — Fast-food ordering web app with live payment integration, dynamic menu systems, and real-time order workflows.
-- **🌿 [Veloura Naturals](https://veloura-naturals.vercel.app)** — Organic oil store with custom inventory management and sleek responsive storefront design.
-- **👕 [Daud Fabrics Full-Stack E-Commerce](https://daud-fabrics-e-commerce.vercel.app)** — High-performance online clothing platform with automated order processing and secure checkout flows.
-- **👔 [Daud Fabrics Online Store](https://daud-fabrics-online-store.vercel.app)** — Catalog e-commerce storefront paired with an administrative management dashboard.
-
-### 💻 Software & Academic Projects
-- **🎓 [Student Grade Manager (OOP)](https://github.com/saadullah990123/StudentGradeManager-Cpp)** — C++ application applying Object-Oriented Programming principles to manage and calculate student academic analytics.
-- **📚 [Library Management System](https://github.com/saadullah990123/Library-System)** — Desktop application for catalog management, borrowing records, and membership management.
-- **💻 [First Semester Fundamentals Project](https://github.com/saadullah990123/First-Semester-Project)** — Foundational C++ system demonstrating modular software architecture and algorithmic logic.
+| Project | Description |
+| :--- | :--- |
+| 🧁 **[Al-Ghani Sweets & Bakers](https://alghani-sweets-bakers.vercel.app)** | Full-stack bakery e-commerce platform featuring an administrative dashboard for order tracking, online payments, and catalog updates. |
+| 🍕 **[Pizzious](https://pizzious.vercel.app)** | Fast-food ordering web app with live payment integration, dynamic menu systems, and real-time order workflows. |
+| 🌿 **[Veloura Naturals](https://veloura-naturals.vercel.app)** | Organic oil store with custom inventory management and sleek responsive storefront design. |
+| 👕 **[Daud Fabrics Full-Stack E-Commerce](https://daud-fabrics-e-commerce.vercel.app)** | High-performance online clothing platform with automated order processing and secure checkout flows. |
+| 👔 **[Daud Fabrics Online Store](https://daud-fabrics-online-store.vercel.app)** | Catalog e-commerce storefront paired with an administrative management dashboard. |
+| 🎓 **[Student Grade Manager (OOP)](https://github.com/saadullah990123/StudentGradeManager-Cpp)** | C++ application applying Object-Oriented Programming principles to manage and calculate student academic analytics. |
+| 📚 **[Library Management System](https://github.com/saadullah990123/Library-System)** | Desktop application for catalog management, borrowing records, and membership management. |
+| 💻 **[First Semester Fundamentals Project](https://github.com/saadullah990123/First-Semester-Project)** | Foundational C++ system demonstrating modular software architecture and algorithmic logic. |
 
 <br/>
 
