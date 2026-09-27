@@ -83,16 +83,7 @@ I specialize in full-stack web architecture, combining modern frameworks like **
 
 ## 🚀 Featured Projects
 
-<div align="center">
 
-<a href="https://alghani-sweets-bakers.vercel.app">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saadullah990123&repo=AlGhani-Sweets-Bakers&theme=dark&bg_color=0A0A12&title_color=00E5FF&text_color=F5F6FA&border_color=2E5EFF"/>
-</a>
-<a href="https://pizzious.vercel.app">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saadullah990123&repo=Pizzious&theme=dark&bg_color=0A0A12&title_color=00E5FF&text_color=F5F6FA&border_color=2E5EFF"/>
-</a>
-
-</div>
 
 <br/>
 
