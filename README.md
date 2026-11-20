@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5EFF,100:00E5FF&height=200&section=header&text=Saad%20Ullah%20Irfan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Next.js%20%26%20TypeScript%20%7C%20CS%20Student&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:2E5EFF&height=100&section=footer" width="100%"/>
 
 <a href="https://www.linkedin.com/in/saad-ullah-irfan-5a542a304/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://leetcode.com/u/SaadUllahIrfan/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
