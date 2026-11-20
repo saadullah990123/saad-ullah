@@ -1,39 +1,93 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5EFF,100:00E5FF&height=220&section=header&text=Saad%20Ullah%20Irfan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20CS%20Student&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5EFF,100:00E5FF&height=200&section=header&text=Saad%20Ullah%20Irfan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Next.js%20%26%20TypeScript%20%7C%20CS%20Student&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://www.linkedin.com/in/saad-ullah-irfan-5a542a304/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/SaadUllahIrfan/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://wa.me/923495302487">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Islamabad%2C%20Pakistan-2E5EFF?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/saad-ullah-irfan-5a542a304/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/SaadUllahIrfan/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://wa.me/923495302487"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://www.auradial.store/"><img src="https://img.shields.io/badge/Featured-Aura%20Dial-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Islamabad%2C%20Pakistan-2E5EFF?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Building+scalable%2C+full-stack+web+applications;Next.js+%2B+React+%2B+TypeScript+%2B+Supabase;Integrating+AI%2FML+into+real-world+solutions;Educator%2C+Mentor+%2B+Technical+Consultant" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=640&lines=Building+production-ready+e-commerce+platforms;Next.js+%2B+React+%2B+TypeScript+%2B+PostgreSQL;Admin+dashboards%2C+secure+checkout%2C+real+deployments;Open+to+freelance+and+engineering+opportunities" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-## 👋 About Me
+## 👋 About
 
-I'm a **BS Computer Science student** at **Pak-Austria Fachhochschule Institute of Applied Sciences and Technology (PAF-IAST)** and an aspiring software engineer passionate about building scalable web applications and high-performance digital solutions.
+I'm a **BS Computer Science student** at **PAF-IAST** who builds and ships full-stack web products for real businesses. My work centers on **e-commerce platforms with secure admin dashboards**: catalog and inventory management, order workflows, checkout, and cloud media, all deployed and live.
 
-I specialize in full-stack web architecture, combining modern frameworks like **Next.js, React, and TypeScript** with robust backend and database systems like **Node.js, MySQL, PostgreSQL, and Supabase**. In addition to engineering web applications, I am actively involved in mentoring, hosting bootcamps, and integrating AI models into practical software solutions.
+I care about type-safe code, validated inputs, sensible security defaults, and interfaces that feel fast on a phone, since that is where most of my clients' customers shop.
 
-- 🚀 **Full-Stack Engineering:** Crafting performant web architectures, custom dashboards, and e-commerce platforms
-- 🎓 **Academic Base:** CS Undergraduate at PAF-IAST bridging academic fundamentals with production-grade code
-- 🤖 **AI/ML Integration:** Exploring and integrating intelligent models into everyday user workflows
-- 👨‍🏫 **Mentorship & Community:** Conducting bootcamps, performing code reviews, and offering technical consulting
-- 💬 **Ask me about:** Full-stack architecture, API optimization, and modern web performance
+| | |
+|:--|:--|
+| 🚀 **What I do** | Design and build full-stack web apps from schema to deployment |
+| 🧩 **Specialty** | E-commerce storefronts with admin panels for non-technical store owners |
+| 🤖 **Exploring** | Integrating AI/ML models into practical, everyday software |
+| 👨‍🏫 **Community** | Bootcamps, code reviews, and technical mentoring |
+| 💬 **Ask me about** | Full-stack architecture, API design, and web performance |
+
+<br/>
+
+## ⭐ Flagship Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⏱️ [Aura Dial](https://www.auradial.store/)
+**Luxury watches & eyewear store**
+
+Storefront with collections, cart and wishlist drawers, Cash-on-Delivery checkout, order tracking, and reviews. Includes a full **admin dashboard** for products, orders, media, content, and settings.
+
+`Next.js` `TypeScript` `PostgreSQL` `Drizzle` `Cloudinary` `Zustand` `Zod`
+
+[**🔗 Live Site**](https://www.auradial.store/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧁 [Al-Ghani Sweets & Bakers](https://alghani-sweets-bakers.vercel.app)
+**Bakery e-commerce platform**
+
+Online ordering and payments with an **admin dashboard** for order tracking and catalog updates, built for a real local bakery.
+
+`Full-Stack` `Admin Dashboard` `Online Payments`
+
+[**🔗 Live Site**](https://alghani-sweets-bakers.vercel.app)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛒 All Projects
+
+| Project | Overview | Admin Panel |
+|:--|:--|:-:|
+| ⏱️ **[Aura Dial](https://www.auradial.store/)** | Luxury watches and eyewear store with COD checkout, order tracking, and reviews | **Yes** |
+| 🧁 **[Al-Ghani Sweets & Bakers](https://alghani-sweets-bakers.vercel.app)** | Bakery platform with online payments, order tracking, and catalog updates | **Yes** |
+| 🍕 **[Pizzious](https://pizzious.vercel.app)** | Fast-food ordering app with live payments, a dynamic menu, and real-time order workflows | **Yes** |
+| 👔 **[Daud Fabrics Online Store](https://daud-fabrics-online-store.vercel.app)** | Catalog storefront paired with a management dashboard | **Yes** |
+| 👕 **[Daud Fabrics E-Commerce](https://daud-fabrics-e-commerce.vercel.app)** | Clothing platform with automated order processing and secure checkout | — |
+| 🌿 **[Veloura Naturals](https://veloura-naturals.vercel.app)** | Organic oil store with inventory management and a responsive storefront | **Yes** |
+
+<details>
+<summary><b>🎓 Academic & C++ projects</b></summary>
+
+<br/>
+
+| Project | Overview |
+|:--|:--|
+| 🎓 **[Student Grade Manager](https://github.com/saadullah990123/StudentGradeManager-Cpp)** | OOP-based C++ application for managing and calculating student grades |
+| 📚 **[Library Management System](https://github.com/saadullah990123/Library-System)** | Desktop app for catalog, borrowing records, and memberships |
+| 💻 **[First Semester Project](https://github.com/saadullah990123/First-Semester-Project)** | Modular C++ system demonstrating architecture and algorithmic logic |
+
+</details>
 
 <br/>
 
@@ -60,20 +114,20 @@ I specialize in full-stack web architecture, combining modern frameworks like **
 </td>
 <td valign="top" width="33%">
 
-**Backend & Databases**
+**Backend & Data**
 - Node.js · C++
-- MySQL · PostgreSQL
+- PostgreSQL · MySQL
 - Supabase · Firebase
-- Testing Library
+- Drizzle ORM · Zod
 
 </td>
 <td valign="top" width="33%">
 
-**Deployment & Tools**
-- Vercel · Netlify · NPM
+**Delivery & Design**
+- Vercel · Netlify · npm
 - Git · GitHub
-- UI/UX · Figma · Canva
-- WordPress
+- Figma · Canva
+- Cloudinary · WordPress
 
 </td>
 </tr>
@@ -81,56 +135,34 @@ I specialize in full-stack web architecture, combining modern frameworks like **
 
 <br/>
 
-## 🚀 Featured Projects
-
-
-
-<br/>
-
-| Project | Description |
-| :--- | :--- |
-| 🧁 **[Al-Ghani Sweets & Bakers](https://alghani-sweets-bakers.vercel.app)** | Full-stack bakery e-commerce platform featuring an administrative dashboard for order tracking, online payments, and catalog updates. |
-| 🍕 **[Pizzious](https://pizzious.vercel.app)** | Fast-food ordering web app with live payment integration, dynamic menu systems, and real-time order workflows. |
-| 🌿 **[Veloura Naturals](https://veloura-naturals.vercel.app)** | Organic oil store with custom inventory management and sleek responsive storefront design. |
-| 👕 **[Daud Fabrics Full-Stack E-Commerce](https://daud-fabrics-e-commerce.vercel.app)** | High-performance online clothing platform with automated order processing and secure checkout flows. |
-| 👔 **[Daud Fabrics Online Store](https://daud-fabrics-online-store.vercel.app)** | Catalog e-commerce storefront paired with an administrative management dashboard. |
-| 🎓 **[Student Grade Manager (OOP)](https://github.com/saadullah990123/StudentGradeManager-Cpp)** | C++ application applying Object-Oriented Programming principles to manage and calculate student academic analytics. |
-| 📚 **[Library Management System](https://github.com/saadullah990123/Library-System)** | Desktop application for catalog management, borrowing records, and membership management. |
-| 💻 **[First Semester Fundamentals Project](https://github.com/saadullah990123/First-Semester-Project)** | Foundational C++ system demonstrating modular software architecture and algorithmic logic. |
-
-<br/>
-
-## 📊 GitHub & Problem Solving Stats
+## 📊 GitHub & Problem Solving
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=saadullah990123&show_icons=true&theme=dark&bg_color=0A0A12&title_color=00E5FF&icon_color=2E5EFF&text_color=F5F6FA&border_color=2E5EFF&hide_border=false&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=saadullah990123&theme=dark&background=0A0A12&stroke=2E5EFF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&border=2E5EFF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=saadullah990123&show_icons=true&theme=dark&bg_color=0A0A12&title_color=00E5FF&icon_color=2E5EFF&text_color=F5F6FA&border_color=2E5EFF&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=saadullah990123&theme=dark&background=0A0A12&stroke=2E5EFF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&border=2E5EFF"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadullah990123&layout=compact&theme=dark&bg_color=0A0A12&title_color=00E5FF&text_color=F5F6FA&border_color=2E5EFF&hide_border=false"/>
-
-<br/><br/>
-
-<img src="https://leetcode-stats-api.herokuapp.com/SaadUllahIrfan" height="150" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadullah990123&layout=compact&theme=dark&bg_color=0A0A12&title_color=00E5FF&text_color=F5F6FA&border_color=2E5EFF"/>
+<img height="165" src="https://leetcard.jacoblin.cool/SaadUllahIrfan?theme=dark&font=Space%20Grotesk&border=1" alt="LeetCode Stats"/>
 
 <br/><br/>
 
-### 🐍 Contribution Activity
-<img src="https://raw.githubusercontent.com/saadullah990123/saadullah990123/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/saadullah990123/saadullah990123/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%"/>
 
 </div>
 
 <br/>
 
-## 🤝 Let's Connect & Build
+## 🤝 Let's Work Together
 
 <div align="center">
 
-I am open to software engineering opportunities, freelance full-stack projects, and technical collaborations.
+I'm open to **freelance full-stack projects**, **software engineering roles**, and **technical collaborations**.
+If you need a store, an admin dashboard, or a custom web app, let's talk.
 
 <a href="https://wa.me/923495302487"><img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/saad-ullah-irfan-5a542a304/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/u/SaadUllahIrfan/"><img src="https://img.shields.io/badge/View%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.auradial.store/"><img src="https://img.shields.io/badge/See%20My%20Latest%20Work-Aura%20Dial-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 <br/><br/>
 
